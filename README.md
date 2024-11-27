@@ -1,16 +1,16 @@
-## Hi there 👋
+## Daniel Gómez
 
-<!--
-**dangom77/dangom77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Graduate biotechnology student | Python Learner**
 
-Here are some ideas to get you started:
+🔭 ### About Me
+Hi there! I'm Daniel Gómez, a graduate student in Biotechnology at the National University of Colombia in Medellín.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a beginner in Python programming, I'm excited to learn more about data analysis, machine learning, and bioinformatics.
+
+👯 ### Skills
+Some python code
+
+📫 ### Contact
+* **Email:** dgomezch@udea.edu.co
+* **GitHub:** dangom77
+

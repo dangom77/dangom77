@@ -1,8 +1,8 @@
-:bowtie: ### **Daniel Gómez**
+:bust_in_silhouette: ### **Daniel Gómez**
 
 :mortar_board: **Graduate biotechnology student | Python Learner**
 
-:bust_in_silhouette: ### **About Me:**
+:bowtie: ### **About Me:**
 Hi there! I'm Daniel Gómez, a graduate student in Biotechnology at the National University of Colombia in Medellín.
 As a beginner in Python programming, I'm excited to learn more about data analysis, machine learning, and bioinformatics.
 
